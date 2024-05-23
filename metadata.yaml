@@ -1,5 +1,8 @@
 _repo: How-much-bolshevism-is-there-in-America_73613
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73613-h/images/cover.jpg
 creator:
   author:
     agent_name: Dosch-Fleurot, Arno
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '57098'
     url: http://www.gutenberg.org/2009/agents/57098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73613#How-much-bolshevism-is-there-in-America
 gutenberg_issued: '2024-05-12'
 gutenberg_type: Text
 identifiers:
